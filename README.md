@@ -4,6 +4,9 @@ It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL byp
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu18.  
 Please note that Fugu18 does not support tweaks (no tweak injection library).
 
+# Download
+If you came from Google, here's the link you are looking for: <B><a href="https://idevicecentral.com/jailbreak-guide/is-fugu18-jailbreak-for-ios-18-0-18-3-legit/">DOWNLOAD FUGU18</a></B>
+
 # Tested Devices and iOS Versions
 - iPhone Xs Max: iOS 18.4.1
 - iPhone 11 (SRD): iOS 18.4.1
